@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi pagina</title>
+		<section h1 id="Encabezado">
+			/
+	</head>
+	<body>
+		<h1>Mi página</h1>
+
+		<!-- ESTO ES UN COMENTARIO! son las 20:59 y me fumo encima-->
+
+		<section>
+
+	<header>
+		<h2>Noticias relacionadas</h2>
+	</header>
+	<article>
+		<header>
+			<h1>Noticia 1</h1>
+			<p>Texto descriptivo 1</p>
+		</header>
+		<footer>
+    		    <p>Publicado el XXX del XXX de XXX</p>
+  		</footer>
+	</article>
+ 
+	<article>
+		<header>
+			<h1>Noticia 2</h1>
+			<p>Texto descriptivo 2</p>
+		</header>
+		<footer>
+    		    <p>Publicado el XXX del XXX de XXX</p>
+  		</footer>
+	</article>
+		</section>
+		<section>
+			<ul>
+				<li><a href="http://www.wikipedia.org"> Primer item </a></li>
+				<li><a href="http://www.lanacion.com"> Segundo item</a></li>
+				<li><a href="http://www.minutouno.com"> Tercer item</a></li>
+			</ul>
+		</section>
+		<section>
+			<h2>lalala</h2>
+				<article> <p>Hay muchas variaciones de los pasajes de Lorem Ipsum disponibles, pero la mayoría sufrió alteraciones en alguna manera, ya sea porque se le agregó humor, o palabras aleatorias que no parecen ni un poco creíbles. Si vas a utilizar un pasaje de <em>Lorem Ipsum</em>, necesitás estar seguro de que no hay nada avergonzante escondido en el medio del texto.</p> 
+				<p>Todos los generadores de Lorem Ipsum que se encuentran en Internet tienden a repetir trozos predefinidos cuando sea necesario, haciendo a este el único generador verdadero (válido) en la Internet. Usa un diccionario de mas de 200 palabras provenientes del latín, combinadas con estructuras muy útiles de sentencias, para generar texto de Lorem Ipsum que parezca razonable. Este Lorem Ipsum generado siempre estará libre de repeticiones, humor agregado o palabras no características del lenguaje, etc.</p>
+				</article>
+		</section>
+
+			
+	</body>
+</html>
+
+<!-- 
+Etiquetas: dos tipos
+1)Block
+2)Inline
+
+1)Las etiquetas BLOCK generan un salto de linea, se usan para dividir secciones
+2)Las etiquetas Inline no generan un salto de línea. Marcan un estilo. 
+
+--> 

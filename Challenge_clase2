@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi primera página Web</title>
+    <meta charset="UTF-8">
+
+  </head>
+  <body>
+  			<h1>Futuro programador en desarrollo</h1>
+  			<h3>Ignacio Ramírez Charré</h3>
+
+  		<header>
+	<nav>
+		<ul>
+			<li><a href="#inicio">Inicio</a></li>
+			<li><a href="#tutoriales">Tutoriales</a></li>
+			<li><a href="#cursos">Cursos</a></li>
+			<li><a href="#pregunta">Preguntame algo</a></li>
+			<li><a href="#contacto">Contacto</a></li>
+		</ul>
+
+		<select name="Mascota">
+            <optgroup label="Mascota" >
+                <option value="perro">Perro</option>
+                <option value="gato">Gato</option>
+                <option value="pez">Pez</option>
+            </optgroup>
+            
+
+
+        </select>
+	</nav>
+</header>
+
+  </body>
